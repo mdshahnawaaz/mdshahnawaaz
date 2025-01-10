@@ -47,7 +47,7 @@ Email: ansarishahnawaaz038@gmail.com
 
 LinkedIn: [linkedin.com/in/md-shahnawaaz-ansari](https://www.linkedin.com/in/md-shahnawaaz-ansari-33811425a/)
 
-GitHub: github.com/mdshahnawaaz
+GitHub: [github.com/mdshahnawaaz](https://github.com/mdshahnawaaz)
 
 
 
