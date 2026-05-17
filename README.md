@@ -1,154 +1,146 @@
-<h1 align="center">Hi 👋, I'm Md Shahnawaaz Ansari</h1>
-<h3 align="center">Software Engineer @ Deutsche Bank | Backend Developer | AI Enthusiast</h3>
+<h1 align="center">Md Shahnawaaz Ansari</h1>
 
 <p align="center">
-  <a href="https://github.com/mdshahnawaaz">
-    <img src="https://komarev.com/ghpvc/?username=mdshahnawaaz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  Software Engineer at Deutsche Bank • Backend Engineer • Distributed Systems Enthusiast
+</p>
+
+<p align="center">
+  <a href="mailto:ansarishahnawaaz038@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/md-shahnawaaz-ansari">LinkedIn</a> •
+  <a href="https://github.com/mdshahnawaaz">GitHub</a> •
+  <a href="https://leetcode.com/mdshahnawaaz">LeetCode</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💼 Software Engineer at Deutsche Bank
-- 🎓 B.Tech in Information Technology from Jadavpur University
-- 🧠 Passionate about Backend Engineering, System Design, and AI-powered systems
-- 🌱 Currently working on scalable backend architectures and ML-integrated applications
-- ⚡ Strong interest in Distributed Systems, Kafka, Redis, and Microservices
-- 🏆 Competitive Programmer with strong DSA background
+Software Engineer with experience building scalable backend systems, modernizing enterprise applications, and developing distributed platforms using Java and Spring Boot.
 
----
+Currently working at Deutsche Bank, contributing to enterprise-grade applications with focus on:
+- Backend engineering
+- System design
+- Distributed systems
+- Microservices architecture
+- Performance optimization
+- Testing & reliability engineering
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,python,mysql" />
-</p>
-
-### ⚙️ Frameworks & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,angular,nodejs,tailwind" />
-</p>
-
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,kafka,git,jenkins" />
-</p>
+Strong foundation in Data Structures & Algorithms with active competitive programming experience.
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🏦 Software Engineer — Deutsche Bank
-📍 Pune, India  
-📅 Aug 2024 – Present
+### Deutsche Bank — Software Engineer
+**Aug 2024 – Present | Pune, India**
 
-- Modernizing legacy enterprise applications by migrating frontend from JSP to React
-- Improved backend test coverage from **1% → 19%**
-- Refactored backend services to reduce technical debt
-- Worked on ML-driven forecasting systems using Prophet & LightGBM
+- Contributing to modernization of enterprise applications by migrating legacy frontend systems from JSP to React while maintaining compatibility with existing backend services
+- Improved backend unit test coverage from **1% to 19%** using JUnit, Mockito, and AssertJ
+- Refactored legacy backend services to improve maintainability and reduce technical debt
+- Collaborated on ML-driven forecasting initiatives using Prophet and LightGBM
 
-### 💻 Technology, Data & Innovation Intern — Deutsche Bank
-📍 Pune, India  
-📅 May 2024 – Aug 2024
+### Deutsche Bank — Technology, Data and Innovation Intern
+**May 2024 – Aug 2024 | Pune, India**
 
-- Built analytics platform using Angular + Spring Boot
-- Developed GraphQL & REST APIs
+- Built full-stack analytics platform using Angular and Spring Boot
+- Developed scalable REST and GraphQL APIs integrated with Oracle DB
 - Improved frontend state management using NgRx
-- Worked with Oracle DB and testing frameworks like JUnit & Mockito
+- Enhanced application reliability through unit and integration testing
 
 ---
 
-## 🚀 Projects
+## Technical Skills
 
-### 🤖 AI-Powered On-Demand Logistics Platform
+### Languages
+- Java
+- C++
+- JavaScript
+- SQL
+- Python
 
-**Tech Stack:** Java, Spring Boot, MySQL, Redis, Kafka, Python, Stripe
+### Backend & Frameworks
+- Spring Boot
+- REST APIs
+- GraphQL
+- Microservices
+- Hibernate / JPA
 
-- Built scalable logistics backend for booking, driver assignment & tracking
-- Integrated ML services for ETA prediction & demand forecasting
-- Added Stripe payments and real-time workflows
+### Databases & Messaging
+- MySQL
+- MongoDB
+- Redis
+- Kafka
+
+### Tools & Technologies
+- Git
+- Jenkins
+- JUnit
+- Mockito
+- React
+- Angular
+- Tailwind CSS
 
 ---
 
-### 🏏 Know About Cricket
+## Projects
+
+### AI-Powered On-Demand Logistics Platform
+
+**Tech Stack:** Java, Spring Boot, MySQL, Redis, Kafka, Python
+
+Designed and developed a scalable logistics platform supporting:
+- Real-time booking and tracking
+- Driver assignment workflows
+- Dynamic pricing engine
+- ETA prediction services
+- ML-based demand forecasting
+- Payment integration using Stripe
+
+Implemented distributed workflows using Kafka and optimized performance using Redis caching.
+
+---
+
+### Know About Cricket
 
 **Tech Stack:** Angular, Spring Boot, Tailwind CSS
 
-- Built live cricket score & ranking platform
-- Integrated external APIs and real-time data handling
-- Used Jsoup for web scraping live match data
+Developed a cricket analytics platform featuring:
+- Live scores
+- Match history
+- Team rankings
+- Real-time API integration
+- Web scraping using Jsoup
 
 ---
 
-## 📊 Coding Profiles
+## Achievements
 
-<p align="left">
-  <a href="https://leetcode.com/mdshahnawaaz" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1851-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-  
-  <a href="https://www.geeksforgeeks.org/user/mdshahnawaaz/" target="_blank">
-    <img src="https://img.shields.io/badge/GFG-1983-darkgreen?style=for-the-badge"/>
-  </a>
-
-  <a href="https://www.codechef.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge"/>
-  </a>
-</p>
+- Gold Badge in SQL — HackerRank
+- LeetCode Rating: 1851
+- GeeksforGeeks Rating: 1983 (4★)
+- CodeChef: 3★
 
 ---
 
-## 📈 GitHub Stats
+## Education
+
+### Jadavpur University
+**B.Tech in Information Technology**  
+2021 – 2025  
+GPA: 8.9 / 10
+
+---
+## Current Focus
+
+- Distributed Systems
+- Backend Scalability
+- Event-Driven Architecture
+- System Design
+- High Performance APIs
+- AI-integrated Applications
+
+---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdshahnawaaz&show_icons=true&theme=tokyonight"/>
+  Open to backend engineering and software development opportunities.
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahnawaaz&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahnawaaz&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥇 Gold Badge in SQL — HackerRank
-- ⭐ LeetCode Rating: 1851
-- ⭐ GeeksforGeeks Rating: 1983 (4★)
-- ⭐ CodeChef: 3★
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:ansarishahnawaaz038@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/md-shahnawaaz-ansari">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/mdshahnawaaz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-## 💡 Fun Fact
-
-```java
-while(!success){
-    learn();
-    build();
-    improve();
-}
